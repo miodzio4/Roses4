@@ -10,7 +10,7 @@ development:
   pool: 5
 #  username: postgres
 #  password: M24lubOpnr90
-  username: someuser
+  username: someuser1
   password: somepassword
   host: localhost
 
@@ -21,7 +21,7 @@ test:
   pool: 5
 #  username: postgres
 #  password: M24lubOpnr90
-  username: someuser
+  username: someuser1
   password: somepassword
   host: localhost
 
@@ -32,7 +32,7 @@ production:
   pool: 5
 #  username: postgres
 #  password: M24lubOpnr90
-  username: someuser
+  username: someuser1
   password: somepassword
   host: localhost
 

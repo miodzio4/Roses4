@@ -27,12 +27,12 @@ test:
 
 production:
   adapter: postgresql
-  encoding: unicode
-  database: mydb_production
-  pool: 5
+#  encoding: unicode
+ # database: mydb_production
+ # pool: 5
 #  username: postgres
 #  password: M24lubOpnr90
-  username: someuser1
-  password: somepassword
-  host: localhost
+ # username: someuser1
+#  password: somepassword
+  #host: localhost
 
